@@ -31,11 +31,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+
 </p>
 
 ---
@@ -47,13 +45,12 @@
 - 📱 Ship cross-platform mobile apps with **React Native**
 - ☁️ Deploy & scale on **AWS**, containerized with **Docker**
 - 🔐 Design secure APIs with **JWT, OAuth2, RBAC**
-- ✅ Write tested, maintainable code with **Jest** (80%+ coverage)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahabAsifMemon&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahabAsifMemon&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=WahabAsifMemon&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=WahabAsifMemon&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
