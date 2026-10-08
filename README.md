@@ -1,35 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Wahab%20Asif&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Laravel%20%C2%B7%20NestJS%20%C2%B7%20Angular%20%C2%B7%20React&descAlignY=56&descSize=17" width="100%"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Hey+there%2C+I'm+Wahab+Asif+%F0%9F%91%8B;Full+Stack+Developer;I+build+APIs+%26+the+apps+on+top+of+them" alt="Wahab Asif"/>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+scalable+web+apps+%26+REST+APIs;Laravel+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+Angular+%E2%80%A2+React;Clean+architecture.+Fast+APIs.+Shipped+on+time." alt="Typing SVG"/>
+  <b>Laravel</b> &nbsp;•&nbsp; <b>NestJS</b> &nbsp;•&nbsp; <b>Node.js</b> &nbsp;•&nbsp; <b>Angular</b> &nbsp;•&nbsp; <b>React</b> &nbsp;•&nbsp; <b>AWS</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/wahab-asif-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:wahabasifdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Karachi,_Pakistan-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open_to_Remote-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Remote"/>
+  <a href="https://linkedin.com/in/wahab-asif-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:wahabasifdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Karachi,_Pakistan-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open_to_Remote-22C55E?style=flat-square&logo=checkmarx&logoColor=white" alt="Open to Remote"/>
 </p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer with 3+ years of experience** turning business requirements into fast, maintainable web applications. Most of my work lives at the point where backend meets frontend: designing the API, building the UI on top of it, and getting it to production.
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
 
-```ts
-const wahab = {
-  role:        "Full Stack Developer",
-  experience:  "3+ years",
-  backend:     ["Laravel", "NestJS", "Node.js", "Express"],
-  frontend:    ["Angular", "React", "Next.js"],
-  databases:   ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-  cloud:       ["AWS (EC2, S3, Lambda)", "Docker", "CI/CD"],
-  focus:       ["Clean architecture", "Performance", "Testing"],
-};
-```
+I'm a **Full Stack Developer with 3+ years of experience** turning business requirements into fast, maintainable web applications.
 
-<br/>
+Most of my work lives where backend meets frontend: designing the API, building the UI on top of it, and getting it to production.
+
+- 🏢 Currently at **A-State Insurance** & **Digital Auxilius**
+- 🔭 Building REST APIs, dashboards & component libraries
+- ☁️ Shipping on **AWS** with **Docker** & CI/CD
+- 🧪 Testing with **Jest** (80%+ coverage)
+- ⚡ I enjoy turning slow queries into fast ones
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## ⚡ What I Actually Do
 
@@ -39,7 +41,7 @@ const wahab = {
 - 🚀 **Make things faster** through query optimization, caching, code splitting and lazy loading
 - 🧪 **Keep code reliable** with Jest unit tests (80%+ coverage) and 2-week Agile sprints
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -104,7 +106,7 @@ const wahab = {
   </tr>
 </table>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💼 Experience
 
@@ -161,7 +163,7 @@ const wahab = {
 
 </details>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -170,7 +172,7 @@ const wahab = {
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabAsifMemon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=pug,html,css,scss&title_color=38bdf8" alt="Top Languages"/>
 </p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🧭 How I Work
 
@@ -180,13 +182,11 @@ const wahab = {
 >
 > **Test what matters.** Good coverage is what lets a team ship on Friday.
 
-<br/>
-
 ## 🎓 Certifications
 
 **Al-Fateem Academy** — PHP · Laravel · AJAX · JavaScript · WordPress · HTML5 · CSS3 · Bootstrap · Sass
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🤝 Let's Connect
 
@@ -195,4 +195,4 @@ const wahab = {
   <a href="mailto:wahabasifdeveloper@gmail.com"><img src="https://img.shields.io/badge/wahabasifdeveloper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=110&section=footer" width="100%"/>
+<p align="center"><i>Thanks for stopping by. Let's build something great together.</i></p>
