@@ -1,62 +1,110 @@
 <h1 align="center">Hi 👋, I'm Wahab Asif</h1>
-<h3 align="center">Full Stack Developer | Laravel • NestJS • React • Next.js</h3>
+<h3 align="center">Full Stack Developer · Laravel · NestJS · Node.js · Angular · React</h3>
 
 <p align="center">
-  Building scalable web apps & REST APIs for 3+ years. Clean architecture, performance tuning, and shipping maintainable solutions in Agile teams.
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+%26+REST+APIs;Laravel+%7C+NestJS+%7C+Node.js+%7C+Angular+%7C+React;AWS+%E2%80%A2+Docker+%E2%80%A2+Clean+Architecture" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="mailto:wahabasifdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/wahab-asif-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/WahabAsifMemon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-### 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
+  <a href="https://linkedin.com/in/wahab-asif-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:wahabasifdeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/WahabAsifMemon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=WahabAsifMemon&style=for-the-badge&color=0e75b6" alt="Profile views"/>
 </p>
 
 ---
 
-### 💼 What I Do
+## 🧑‍💻 About Me
 
-- 🔧 Build full-stack apps & REST APIs with **Laravel, NestJS, Node.js**
-- 🎨 Craft frontends with **React, Next.js, Angular**
-- 📱 Ship cross-platform mobile apps with **React Native**
-- ☁️ Deploy & scale on **AWS**, containerized with **Docker**
-- 🔐 Design secure APIs with **JWT, OAuth2, RBAC**
+Full Stack Developer with **3+ years of experience** building scalable web applications and REST APIs. I care about clean architecture, performance tuning, and shipping maintainable code in Agile teams.
+
+- 🏢 Currently working at **A-State Insurance** & **Digital Auxilius**
+- 🌍 Based in **Karachi, Pakistan** · open to remote work
+- ⚙️ Building REST APIs, admin dashboards, reusable component libraries, and full-stack products
+- ☁️ Deploying on **AWS** (EC2, S3, Lambda) with **Docker** and CI/CD pipelines
+- 🧪 Writing tests with **Jest** (80%+ coverage on production modules)
+- 📫 Reach me at **wahabasifdeveloper@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css&theme=dark" alt="Languages"/>
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,angular,react,nextjs,wordpress,bootstrap,sass&theme=dark" alt="Frameworks"/>
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Databases"/>
+</p>
+
+**Cloud, DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,postman,vscode,jest&theme=dark" alt="DevOps & Tools"/>
+</p>
+
+**Also experienced with:** REST APIs · JWT · OAuth2 · RBAC · React Native · OOP · MVC · Database Design · Responsive Design · Agile/Scrum · Jira
+
+---
+
+## 💼 Experience
+
+| Company | Role | Period |
+|---|---|---|
+| **A-State Insurance** | Full Stack Developer (Remote) | Mar 2025 – Present |
+| **Digital Auxilius** | Laravel Developer · Karachi | Oct 2024 – Present |
+| **Digitally Prime** | Full Stack Developer (Remote) | Feb 2025 – Oct 2025 |
+| **82 Solutions** | Full Stack Developer · Karachi | Apr 2023 – Oct 2024 |
+| **Mttect** | Backend Development Intern · Karachi | Jan 2023 – Mar 2023 |
+
+### ✨ Highlights
+
+- 🚀 Built **5+ dynamic web modules** improving workflow efficiency for **200+ employees**
+- 👥 Maintained a React.js frontend serving **30,000+ active users**
+- 🧩 Created a **reusable component library** shared across 3 applications
+- 🔐 Designed secure REST APIs with **JWT / OAuth2** for web & mobile apps
+- 📊 Delivered **5+ admin dashboards** with role-based access control, reporting & real-time features
+- ⚡ Optimized database queries and added caching to cut response times
+- 📱 Shipped cross-platform mobile apps with **React Native**, plus 3+ custom WordPress themes
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WahabAsifMemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabAsifMemon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WahabAsifMemon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahabAsifMemon&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🎓 Certifications
+
+**Al-Fateem Academy** — PHP · Laravel · AJAX · JavaScript · WordPress · HTML5 · CSS3 · Bootstrap · Sass
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=WahabAsifMemon&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=WahabAsifMemon&theme=radical&hide_border=true" width="48%" />
+  <i>“Clean code always looks like it was written by someone who cares.”</i><br/>
+  ⭐ Thanks for visiting — feel free to connect!
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabAsifMemon&layout=compact&theme=radical&hide_border=true" width="55%" />
-</p>
-
----
-
-<p align="center">📫 Reach me at <b>wahabasifdeveloper@gmail.com</b></p>
