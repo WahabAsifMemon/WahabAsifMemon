@@ -1,166 +1,162 @@
-<h1 align="center">Hi there, I'm Wahab Asif <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="36"/></h1>
+<h1 align="center">Hi 👋, I'm Wahab Asif</h1>
+<h3 align="center">Full Stack Developer · Laravel · NestJS · Node.js · Angular · React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%C2%B7+3%2B+years;Laravel+%C2%B7+NestJS+%C2%B7+Node.js+%C2%B7+Angular+%C2%B7+React;I+build+APIs+and+the+apps+on+top+of+them" alt="Typing"/>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+scalable+web+apps+%26+REST+APIs;Full+Stack+Developer+%7C+3%2B+Years+Experience;AWS+%E2%80%A2+Docker+%E2%80%A2+Clean+Architecture" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/wahab-asif-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:wahabasifdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Karachi,_Pakistan-1E293B?style=flat-square&logo=googlemaps&logoColor=0EA5E9" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open_to_Remote-16A34A?style=flat-square&logoColor=white" alt="Open to Remote"/>
+  <a href="https://linkedin.com/in/wahab-asif-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:wahabasifdeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/WahabAsifMemon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></p>
+
+---
+
+## 🧑‍💻 About Me
+
+Full Stack Developer with **3+ years of experience** building scalable web applications and REST APIs. I care about clean architecture, performance tuning, and shipping maintainable code in Agile teams.
+
+- 🏢 Currently working at **A-State Insurance** & **Digital Auxilius**
+- 🌍 Based in **Karachi, Pakistan** · open to remote work
+- ⚙️ Building REST APIs, admin dashboards, reusable component libraries, and full-stack products
+- ☁️ Deploying on **AWS** (EC2, S3, Lambda) with **Docker** and CI/CD pipelines
+- 🧪 Writing tests with **Jest** (80%+ coverage on production modules)
+- 📫 Reach me at **wahabasifdeveloper@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css&theme=dark" alt="Languages"/>
 </p>
 
-<br/>
+**Frameworks & Libraries**
 
-### About
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer at work"/>
-
-Full Stack Developer with **3+ years** of experience turning business requirements into fast, maintainable web applications.
-
-I work where backend meets frontend: designing the API, building the interface on top of it, and taking it to production.
-
-- **Now:** A-State Insurance & Digital Auxilius
-- **Focus:** APIs, dashboards, component libraries
-- **Learning:** NestJS at scale & cloud architecture
-- **Ask me about:** Laravel, Angular, query tuning
-
-<br clear="right"/>
-
-<br/>
-
-### What I Do
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs" height="28"/><br/>
-      <b>API Engineering</b><br/>
-      <sub>REST APIs secured with JWT, OAuth2 and role-based access control, designed together with the frontend that consumes them.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://skillicons.dev/icons?i=angular,react,nextjs" height="28"/><br/>
-      <b>Frontend Systems</b><br/>
-      <sub>Angular, React and Next.js applications built on reusable component libraries and responsive layouts.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" height="28"/><br/>
-      <b>Admin Dashboards</b><br/>
-      <sub>Internal tools with permissions, reporting and real-time features that teams use every day.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://skillicons.dev/icons?i=jest,docker,aws" height="28"/><br/>
-      <b>Performance & Quality</b><br/>
-      <sub>Query optimization, caching, lazy loading, and Jest test suites with 80%+ coverage.</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,php,python,ts,js&perline=8" alt="Backend & Languages"/><br/>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,sass,bootstrap,wordpress&perline=8" alt="Frontend"/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,githubactions,linux&perline=8" alt="Data & Cloud"/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,jest,postman,vscode&perline=8" alt="Tools"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,angular,react,nextjs,wordpress,bootstrap,sass&theme=dark" alt="Frameworks"/>
 </p>
 
-<br/>
+**Databases**
 
-### Experience
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Databases"/>
+</p>
+
+**Cloud, DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,postman,vscode,jest&theme=dark" alt="DevOps & Tools"/>
+</p>
+
+**Also experienced with:** REST APIs · JWT · OAuth2 · RBAC · React Native · OOP · MVC · Database Design · Responsive Design · Agile/Scrum · Jira
+
+---
+
+## 💼 Experience
 
 <table align="center">
   <tr>
-    <td align="center" width="165"><h3>3+</h3><sub>Years Experience</sub></td>
-    <td align="center" width="165"><h3>30K+</h3><sub>Active Users Served</sub></td>
-    <td align="center" width="165"><h3>200+</h3><sub>Employees Impacted</sub></td>
-    <td align="center" width="165"><h3>80%+</h3><sub>Test Coverage</sub></td>
+    <td align="center" width="170"><h2>3+</h2><sub>Years Experience</sub></td>
+    <td align="center" width="170"><h2>30K+</h2><sub>Active Users Served</sub></td>
+    <td align="center" width="170"><h2>200+</h2><sub>Employees Impacted</sub></td>
+    <td align="center" width="170"><h2>80%+</h2><sub>Test Coverage</sub></td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="150" valign="top"><sub>MAR 2025 — NOW</sub><br/><img src="https://img.shields.io/badge/Current-22C55E?style=flat-square" /></td>
-    <td valign="top">
-      <b>Full Stack Developer</b> · A-State Insurance <sub>(Remote)</sub>
-      <ul>
-        <li>Built 5+ web modules for internal operations, improving workflow efficiency for 200+ employees</li>
-        <li>Created a reusable component library shared across 3 applications</li>
-        <li>Wrote Jest unit tests reaching 80%+ coverage, delivered in 2-week Agile sprints</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><sub>OCT 2024 — NOW</sub><br/><img src="https://img.shields.io/badge/Current-22C55E?style=flat-square" /></td>
-    <td valign="top">
-      <b>Laravel Developer</b> · Digital Auxilius <sub>(Karachi)</sub>
-      <ul>
-        <li>Develop and maintain a React.js frontend serving 30,000+ active users</li>
-        <li>Built reusable React and Next.js components for a consistent design system</li>
-        <li>Integrated REST APIs using React Hooks and Context API; improved data-fetching performance</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>Earlier roles</b></summary>
 <br/>
 
-<table>
-  <tr>
-    <td width="150" valign="top"><sub>FEB 2025 — OCT 2025</sub></td>
-    <td valign="top">
-      <b>Full Stack Developer</b> · Digitally Prime <sub>(Remote)</sub>
-      <ul>
-        <li>Developed cross-platform mobile apps with React Native</li>
-        <li>Built 3+ custom WordPress themes and 4+ client websites</li>
-        <li>Improved app performance through code splitting and lazy loading</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><sub>APR 2023 — OCT 2024</sub></td>
-    <td valign="top">
-      <b>Full Stack Developer</b> · 82 Solutions <sub>(Karachi)</sub>
-      <ul>
-        <li>Built full-stack client applications with Laravel, Angular and Node.js</li>
-        <li>Designed secure REST APIs with JWT / OAuth2 for web and mobile</li>
-        <li>Delivered 5+ admin dashboards with RBAC, reporting and real-time features</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><sub>JAN 2023 — MAR 2023</sub></td>
-    <td valign="top">
-      <b>Backend Development Intern</b> · Mttect <sub>(Karachi)</sub>
-      <ul>
-        <li>Built 3 responsive web interfaces with HTML5, CSS3 and JavaScript</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🟢 A-State Insurance
+**Full Stack Developer** &nbsp;·&nbsp; 🌐 Remote &nbsp;·&nbsp; 🗓️ Mar 2025 – Present
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+- 🚀 Built **5+ dynamic web modules** for internal operations, improving workflow efficiency for **200+ employees**
+- 🧩 Created a **reusable component library** used across **3 applications**, cutting time to build new features
+- 🧪 Wrote unit tests with **Jest**, reaching **80%+ code coverage** and catching bugs early
+- 🔁 Delivered features on schedule in **2-week Agile sprints**
+
+### 🟢 Digital Auxilius
+**Laravel Developer** &nbsp;·&nbsp; 📍 Karachi, Pakistan &nbsp;·&nbsp; 🗓️ Oct 2024 – Present
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=postman&logoColor=white)
+
+- 👥 Develop and maintain a **React.js** frontend serving **30,000+ active users**
+- 🧱 Built reusable UI components with **React & Next.js** for a consistent design system
+- 🔌 Integrated REST APIs with state management using **React Hooks & Context API**
+- 🤝 Worked with the backend team on API contracts and improved data-fetching performance
+- 📱 Delivered fully responsive layouts across desktop, tablet, and mobile
+
+<details>
+<summary><b>📂 Previous Roles</b> &nbsp;<sub>(click to expand)</sub></summary>
+
+<br/>
+
+### ⚪ Digitally Prime
+**Full Stack Developer** &nbsp;·&nbsp; 🌐 Remote &nbsp;·&nbsp; 🗓️ Feb 2025 – Oct 2025
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+- 📱 Developed cross-platform mobile apps with **React Native**
+- 🎨 Built **3+ custom WordPress themes** and **4+ client websites** with pixel-perfect designs
+- ⚡ Improved app performance through **code splitting & lazy loading**
+
+### ⚪ 82 Solutions
+**Full Stack Developer** &nbsp;·&nbsp; 📍 Karachi, Pakistan &nbsp;·&nbsp; 🗓️ Apr 2023 – Oct 2024
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- 🏗️ Built full-stack client applications with **Laravel, Angular & Node.js**
+- 🔐 Designed secure REST APIs with **JWT / OAuth2** for web and mobile
+- 📊 Delivered **5+ admin dashboards** with RBAC, reporting & real-time features
+- ⚡ Optimized database queries and added caching to cut response times
+
+### ⚪ Mttect
+**Backend Development Intern** &nbsp;·&nbsp; 📍 Karachi, Pakistan &nbsp;·&nbsp; 🗓️ Jan 2023 – Mar 2023
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- 🖥️ Built **3 responsive web interfaces** with clean, maintainable code
+- 🐞 Helped debug and fix issues, improving application stability
 
 </details>
 
-<br/>
+---
 
-### GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WahabAsifMemon&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=stars,issues&custom_title=GitHub%20Overview&hide_border=true&bg_color=0B1120&title_color=0EA5E9&icon_color=0EA5E9&text_color=CBD5E1" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabAsifMemon&layout=compact&langs_count=6&hide=pug,html,css,scss&hide_border=true&bg_color=0B1120&title_color=0EA5E9&text_color=CBD5E1" alt="Top Languages"/>
-</p>
-
-<br/>
+## 📊 GitHub Stats
 
 <p align="center">
-  <sub>Certified in PHP, Laravel, JavaScript, WordPress & Sass · Al-Fateem Academy</sub>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WahabAsifMemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=stars,issues&custom_title=GitHub%20Overview" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabAsifMemon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=pug,html,css,scss" alt="Top Languages"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,55:1E3A8A,100:0EA5E9&height=6&section=footer" width="100%"/>
+---
+
+## 🎓 Certifications
+
+**Al-Fateem Academy** — PHP · Laravel · AJAX · JavaScript · WordPress · HTML5 · CSS3 · Bootstrap · Sass
+
+---
+
+<p align="center">
+  <i>“Clean code always looks like it was written by someone who cares.”</i><br/>
+  ⭐ Thanks for visiting — feel free to connect!
+</p>
