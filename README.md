@@ -3,16 +3,14 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+%26+REST+APIs;Laravel+%7C+NestJS+%7C+Node.js+%7C+Angular+%7C+React;AWS+%E2%80%A2+Docker+%E2%80%A2+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+scalable+web+apps+%26+REST+APIs;Full+Stack+Developer+%7C+3%2B+Years+Experience;AWS+%E2%80%A2+Docker+%E2%80%A2+Clean+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/wahab-asif-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:wahabasifdeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/WahabAsifMemon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=WahabAsifMemon&style=for-the-badge&color=0e75b6" alt="Profile views"/>
-</p>
+  <a href="https://github.com/WahabAsifMemon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></p>
 
 ---
 
@@ -84,16 +82,8 @@ Full Stack Developer with **3+ years of experience** building scalable web appli
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WahabAsifMemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabAsifMemon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=WahabAsifMemon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahabAsifMemon&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WahabAsifMemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=stars,issues&custom_title=GitHub%20Overview" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabAsifMemon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=pug,html,css,scss" alt="Top Languages"/>
 </p>
 
 ---
