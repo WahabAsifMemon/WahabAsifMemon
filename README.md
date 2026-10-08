@@ -1,37 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,55:1E3A8A,100:0EA5E9&height=150&section=header&text=Wahab%20Asif&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=16&descAlignY=72&descColor=cbd5e1" width="100%"/>
+<h1 align="center">Hi there, I'm Wahab Asif <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="36"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=900&color=0EA5E9&center=true&vCenter=true&width=620&lines=Laravel+%C2%B7+NestJS+%C2%B7+Node.js+%C2%B7+Angular+%C2%B7+React;Scalable+web+apps+and+REST+APIs;Clean+architecture.+Measured+performance." alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%C2%B7+3%2B+years;Laravel+%C2%B7+NestJS+%C2%B7+Node.js+%C2%B7+Angular+%C2%B7+React;I+build+APIs+and+the+apps+on+top+of+them" alt="Typing"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/wahab-asif-developer"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=0EA5E9" alt="LinkedIn"/></a>
-  <a href="mailto:wahabasifdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=0EA5E9" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Karachi,_PK-0B1120?style=for-the-badge&logo=googlemaps&logoColor=0EA5E9" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open_to_Remote-0B1120?style=for-the-badge&logo=rocket&logoColor=22C55E" alt="Open to Remote"/>
+  <a href="https://linkedin.com/in/wahab-asif-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:wahabasifdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Karachi,_Pakistan-1E293B?style=flat-square&logo=googlemaps&logoColor=0EA5E9" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open_to_Remote-16A34A?style=flat-square&logoColor=white" alt="Open to Remote"/>
 </p>
 
 <br/>
 
 ### About
 
-<table>
-  <tr>
-    <td width="55%" valign="middle">
-      <p>Full Stack Developer with <b>3+ years</b> of experience turning business requirements into fast, maintainable web applications.</p>
-      <p>I work where backend meets frontend: designing the API, building the interface on top of it, and taking it to production.</p>
-      <p>
-        <b>Now</b> &nbsp;·&nbsp; A-State Insurance &amp; Digital Auxilius<br/>
-        <b>Focus</b> &nbsp;·&nbsp; APIs, dashboards, component libraries<br/>
-        <b>Learning</b> &nbsp;·&nbsp; NestJS at scale &amp; cloud architecture<br/>
-        <b>Ask me about</b> &nbsp;·&nbsp; Laravel, Angular, query tuning
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer at work"/>
-    </td>
-  </tr>
-</table>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer at work"/>
+
+Full Stack Developer with **3+ years** of experience turning business requirements into fast, maintainable web applications.
+
+I work where backend meets frontend: designing the API, building the interface on top of it, and taking it to production.
+
+- **Now:** A-State Insurance & Digital Auxilius
+- **Focus:** APIs, dashboards, component libraries
+- **Learning:** NestJS at scale & cloud architecture
+- **Ask me about:** Laravel, Angular, query tuning
+
+<br clear="right"/>
 
 <br/>
 
